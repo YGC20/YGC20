@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cheon Young-Gi (천영기)
+# Hi, I'm Cheon Young-Gi (천영기)
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 <br>
 
-## 📑 목차 (Table of Contents)
+## 목차 (Table of Contents)
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 </div>
 
-## ⚡ Github Stats
+## Github Stats
 
 <div align="center">
 
